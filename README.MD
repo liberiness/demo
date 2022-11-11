@@ -1,20 +1,34 @@
-# 标题
+# 学习计划
 
-## 简介
+## 第一步
+
+- html基础（1天学完）
+- css基础（1天学完）
+- javascript基础（2-3天学完）
+
+产出：一个html页面+css样式+JavaScript基础事件
+
+## 学习node基础
+- 安装node
 
 
-## 菜单
+## 学习react
 
-## 内容
+- react基础语法（2-3天）
+- react-cli搭建（1天）
 
-### 初始化
+## 学习docker
+ - dockerfile 基本语法
+ - docker概念
+ - 安装docker
+ - docker部署mysql
+ - docker部署react-cli
+
+## 学习服务端
+- node server（链接数据库，写增删改查语句），产出一个api
+
+## 小程序
+- 基础语法
+- 实现一个小程序基本页面
 
 
-## git 初始化
-
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:liberiness/demo.git
-git push -u origin main
